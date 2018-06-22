@@ -1,0 +1,22 @@
+input.hidden {
+    position: absolute;
+    right: -9999px;
+}
+
+label, input {
+    display: block;
+
+}
+
+label {
+    margin-top: 0px;
+	
+}
+
+
+::-moz-placeholder {
+    font-size: 70% !important;
+}
+
+
+	

@@ -1,0 +1,25 @@
+input.hidden {
+    position: absolute;
+    right: -9999px;
+}
+
+.box-input {
+	height:40px  !important; 
+	padding: 10px !important;
+	border-radius: 3px  !important;
+	margin-top: 0px  !important;
+	font-size: 100%  !important;
+	border-color: #bdbdbd !important;
+}
+
+label, input {
+    display: block;
+}
+
+label {
+    margin-top: 0px;
+	
+}
+
+
+	

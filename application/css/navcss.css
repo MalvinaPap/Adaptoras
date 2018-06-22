@@ -1,0 +1,136 @@
+body {
+	background: #f2f2f2;
+	font-family: 'Advent Pro', sans-serif;
+	text-align: center;
+}
+
+.btn-search {
+	position: relative;
+    display: inline-block;
+    padding: 16px;
+    border: none;
+    cursor: pointer;
+	font-size: 20px;
+}
+
+.btn-search:hover {
+	position: relative;
+    display: inline-block;
+    padding: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown:hover .btn-search {
+	background-color: white !important;
+	color: black!important;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+	list-style-type: none;
+	padding: 0;
+	margin-left: 0;
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+	cursor: pointer;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+	cursor: pointer;
+}
+
+.dropdown-menu {
+	cursor: pointer;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+	cursor: pointer;
+}
+
+
+input[type=text] {
+	width:30px;
+	height:40px;
+	font-size: 130%;
+	border-radius: 30px;
+    border: 1px solid #f2f2f2;
+    padding: 10px; 
+	margin-top: 0px; 
+}
+
+/*When the input field gets focus, change its width to 100% 
+input[type=text]:focus {
+    width: 100%;
+	font-size: 130%;
+}*/
+
+
+.example .navbar {
+	background: white;
+	border-color: white;
+}
+
+.example .navbar-brand {
+  height: 80px;
+  padding-top: 5px;
+  padding-bottom: 0px;
+}
+
+.example .navbar-left>li >a {
+  padding-top: 27px;
+  padding-bottom: 30px;
+  font-size: 130%;
+}
+
+.example .navbar-right>li >a {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 140%;
+}
+
+.example .nav >li >a:hover {
+	color: black;
+	background-color: white;
+}
+
+
+#btn-searching {
+	position: relative;
+    display: inline-block;
+    border: none;
+    cursor: pointer;
+	background-color: white;
+	font-size: 130%;
+	top: 2px;;
+}
+
+#loginbtn, #registerbtn {
+	cursor: pointer;
+}
+
+li ul{
+    display:none;
+}
+
+li:hover ul{
+    display:block;
+}
+
+
+

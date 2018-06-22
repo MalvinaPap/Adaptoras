@@ -1,0 +1,27 @@
+body {
+	background: #f2f2f2;
+}
+
+.jumbotron {
+	background-color:#ffa64d;
+	height: 150px;
+        width: 900px;
+	border-style: groove;
+}
+
+.media-object {
+	width: 80px;
+        height: 80px;
+	border: 1px solid grey;
+
+}
+
+a {
+	color:black;
+}
+
+
+
+
+
+
