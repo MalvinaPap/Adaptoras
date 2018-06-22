@@ -5,7 +5,7 @@ Adaptoras is an online platform designed for university students studying far fr
 
 This project has been completed as a semester assignment during the course "Information Systems Implementation and Architecture" thoughout the 5th semester of our studies in Athens University of Economics and Business, Department of Management Science and Technology. 
 
-Webpage link:http://ism.dmst.aueb.gr/ismgroup32/index_1.jsp
+Webpage link: http://ism.dmst.aueb.gr/ismgroup32/index_1.jsp
 ###### note: the link will be active till next year, after that we will have to find another hosting solution
 
 ### Technical Characteristics
@@ -14,7 +14,8 @@ Webpage link:http://ism.dmst.aueb.gr/ismgroup32/index_1.jsp
 It is hosted on our university's web server and uses a MySQL database given to us by our professors.
 
 ### Contribution
-Anyone should feel welcome to contribute, with new features or improvements. What we have not managed yet is to make it possible for our users to upload photos on the site. This would be therefore a really important contribution. 
+Anyone should feel welcome to contribute, with new features or improvements. We have created already issues that describe what we would like to add to our page but feel free to create your our. 
+If you are interested in joining our team we can consider translating the page into English so that we can both help you and make it more scalable.
 
 Team members:
 * [Maria-Malevi (Malvina) Papadaki](https://github.com/MalvinaPap)
