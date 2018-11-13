@@ -6,7 +6,7 @@ Adaptoras is an online platform designed for university students studying far fr
 This project has been completed as a semester assignment during the course "Information Systems Implementation and Architecture" thoughout the 5th semester of our studies in Athens University of Economics and Business, Department of Management Science and Technology. 
 
 Webpage link: http://ism.dmst.aueb.gr/ismgroup32/index_1.jsp
-###### note: the link will be active till next year, after that we will have to find another hosting solution
+###### note: the link is not active anymore, as the application was meant to run in our university's apache server for a year, starting from October 2017.
 
 ### Technical Characteristics
  This project follows the 3-Tier architecture logic for building webpages. For the front tier (user interface) it uses HTML and CSS (Bootstrap framework), for the application level it uses Java,JSP and JavaScript and for the database level it uses MySQL.
